@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine(o.P1);
             o.Name= "pankaj";
             Console.WriteLine(o.Name);
-            o.P4 = "a";
+            o.P4 = "auto-property";
             Console.WriteLine(o.P4);
         }
     }
