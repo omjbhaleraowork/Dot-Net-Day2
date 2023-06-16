@@ -6,6 +6,8 @@
         {
             BaseClass o1 = new BaseClass();
             //o1.
+            TestAccessModifiers.TestClass o2 = new TestAccessModifiers.TestClass();
+          //  o2.
         }
     }
 

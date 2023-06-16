@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2 project", "ConsoleApp1\day2 project.csproj", "{E9C9619D-DF9C-410A-82B9-7C2F2F8A7626}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "property", "ConsoleApp1\property.csproj", "{E9C9619D-DF9C-410A-82B9-7C2F2F8A7626}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructorandobjectInt", "constructorandobjectInt\constructorandobjectInt.csproj", "{5521AE87-B502-4AD0-A232-300DC293BE74}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceExp", "InheritanceExp\InheritanceExp.csproj", "{BF767309-EFAA-4D90-B27F-94B6C66917E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAccessModifiers", "TestAccessModifiers\TestAccessModifiers.csproj", "{184C582E-27B3-431C-852A-5F76DBA3A672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee1", "Employee1\Employee1.csproj", "{8AE3F503-A99F-4802-8318-5AA831A1CCCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAuto", "EmployeeAuto\EmployeeAuto.csproj", "{5D9B6E28-BA5E-4AC7-82D0-CCE2CEE601EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{184C582E-27B3-431C-852A-5F76DBA3A672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{184C582E-27B3-431C-852A-5F76DBA3A672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{184C582E-27B3-431C-852A-5F76DBA3A672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE3F503-A99F-4802-8318-5AA831A1CCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE3F503-A99F-4802-8318-5AA831A1CCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE3F503-A99F-4802-8318-5AA831A1CCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE3F503-A99F-4802-8318-5AA831A1CCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9B6E28-BA5E-4AC7-82D0-CCE2CEE601EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9B6E28-BA5E-4AC7-82D0-CCE2CEE601EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9B6E28-BA5E-4AC7-82D0-CCE2CEE601EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9B6E28-BA5E-4AC7-82D0-CCE2CEE601EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
